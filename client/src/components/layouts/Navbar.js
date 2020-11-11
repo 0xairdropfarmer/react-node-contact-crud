@@ -17,7 +17,7 @@ const Navbar = ({ title, icon }) => {
           <Link to="/about">About</Link>
         </li>
         <li>
-          <a href="https://github.com/stephin007/contactkeeper" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
+          <a href="https://github.com/krissnawat/nodejs-api-demo" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
         </li>
       </ul>
     </div>
